@@ -17,7 +17,7 @@
 ## Releasing a new version
 
 1. Update the changelog (TODO: add the changelog)
-2. Update the version in `setup.py`
+2. Update the version in ...
 3. Tag the repo with `vX.Y.Z` where X.Y.Z is the version
 4. CircleCI will automatically build the package and publish the release
 
