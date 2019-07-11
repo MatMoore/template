@@ -27,7 +27,7 @@ All contributions are welcome, but issues tagged with either of the following ar
 - [Good first issue](https://github.com/MatMoore/template/labels/good%20first%20issue)
 - [Help wanted](https://github.com/MatMoore/template/labels/help%20wanted)
 
-See [CONTRIBUTING.md](CONTRIBUTING.MD) for more details.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 All code is free to use under the [MIT license](LICENSE)
